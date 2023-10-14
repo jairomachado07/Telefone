@@ -1,3 +1,4 @@
+package Iphone.MemoriaInterna;
 import java.util.Scanner;
 
 public class AparelhoTelefonico {

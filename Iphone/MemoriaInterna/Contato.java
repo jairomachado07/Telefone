@@ -1,3 +1,4 @@
+package Iphone.MemoriaInterna;
 
 public class Contato {
 
