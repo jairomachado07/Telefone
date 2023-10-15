@@ -1,4 +1,4 @@
-package Iphone.MemoriaInterna;
+package Iphone;
 
 public class NavegadorInternet {
     private String urlAtual;

@@ -1,4 +1,4 @@
-package Iphone.MemoriaInterna;
+package Iphone;
 import java.util.List;
 
 public class ReprodutorMusical {
@@ -7,6 +7,7 @@ public class ReprodutorMusical {
     }
 
     public void tocar() {
+        Musica.plause(false);
     }
 
 }

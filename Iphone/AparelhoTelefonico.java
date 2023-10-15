@@ -1,10 +1,18 @@
-package Iphone.MemoriaInterna;
+package Iphone;
 import java.util.Scanner;
 
 public class AparelhoTelefonico {
 
     private Agenda agenda;
     private String numero;
+    public String getNumero() {
+        return numero;
+    }
+
+    public void setNumero(String numero) {
+        this.numero = numero;
+    }
+
     private Scanner scanner;
 
     public AparelhoTelefonico(String numero) {
